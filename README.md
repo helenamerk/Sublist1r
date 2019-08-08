@@ -1,6 +1,7 @@
 # About Sublist1r
 
-Major shoutout to @aboul3la for building Sublist3r. (https://github.com/aboul3la/Sublist3r)[https://github.com/aboul3la/Sublist3r]
+Major shoutout to @aboul3la for building Sublist3r. [https://github.com/aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r).
+
 This repo is a single-threaded version of the same tool.
 
 ## Why?
@@ -13,8 +14,6 @@ git clone https://github.com/helenamerk/sublist1r.git
 cd sublist1r
 pip install -r requirements.txt
 ```
-
-## Usage
 
 ## Usage
 
